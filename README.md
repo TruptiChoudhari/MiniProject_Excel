@@ -8,7 +8,7 @@ This mini-project demonstrates a comprehensive analysis of customer feedback dat
 
 **Pivot Tables:** Leveraged Pivot Tables to summarize and categorize data efficiently.
 
-**Visualizations:** Generated charts and graphs for visual representation, making insights easier to interpret.
+**Visualizations:** Generated charts and graphs for visual representation, making interpreting insights easier.
 
 **Formatting and Customization:** Applied edits and formatting to improve readability and enhance data presentation.
 
